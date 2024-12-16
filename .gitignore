@@ -2,3 +2,4 @@
   __pycache__/
   *.pyc
   #just test the gitignore 
+*.pyc
